@@ -1,4 +1,4 @@
-A Certainly! Handwritten character recognition, also known as handwritten text recognition (HTR) or HWR, refers to the ability of a computer to interpret intelligible handwritten input from various sources such as paper documents, photographs, touchscreens, and other devices1. It’s a fascinating field that combines machine learning, computer vision, and neural networks to decipher human handwriting.
+Certainly! Handwritten character recognition, also known as handwritten text recognition (HTR) or HWR, refers to the ability of a computer to interpret intelligible handwritten input from various sources such as paper documents, photographs, touchscreens, and other devices1. It’s a fascinating field that combines machine learning, computer vision, and neural networks to decipher human handwriting.
 
 If you’re interested in building a handwritten character recognition system, here’s a high-level overview of the process:
 
